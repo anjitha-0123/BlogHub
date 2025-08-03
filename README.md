@@ -6,13 +6,13 @@ BlogHub is a full-stack web application that allows users to register, log in, a
 
 🔐 User Authentication
 
-🆕 Register new users
+     🆕 Register new users
 
-🔑 Login with JWT-based authentication
+     🔑 Login with JWT-based authentication
 
-🚪 Logout securely
+     🚪 Logout securely
 
-📰 Blog Management
+      📰 Blog Management
 
 
 ✍️ Create new blog posts
@@ -45,7 +45,7 @@ BlogHub is a full-stack web application that allows users to register, log in, a
 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/bloghub.git
+git clone  git@github.com:anjitha-0123/BlogHub.git
 
 ```
 ```
