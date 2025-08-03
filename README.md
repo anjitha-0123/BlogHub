@@ -79,9 +79,6 @@ npm install
 npm run dev
 ```
 
-🔒 Authentication
-🛡️ JWT tokens are issued on login and stored in HTTP-only cookies for security
-🔒 Protected routes require a valid JWT
 
   
 Happy blogging! ✨📝🚀  | Author: Anjitha T V
