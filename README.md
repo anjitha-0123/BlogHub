@@ -4,7 +4,7 @@ BlogHub is a full-stack web application that allows users to register, log in, a
 
 ##  🌟 Features
 
-🔐 User Authentication
+### 🔐 User Authentication
 
    🆕 Register new users
 
@@ -15,7 +15,7 @@ BlogHub is a full-stack web application that allows users to register, log in, a
    📰 Blog Management
 
 
-✍️ Create new blog posts
+### ✍️ Create new blog posts
 
 📚 Fetch all blog posts
 
@@ -25,8 +25,7 @@ BlogHub is a full-stack web application that allows users to register, log in, a
 
 🗑️ Delete your own blog posts
 
-👤 User Profile
-
+### 👤 User Profile
 
 🧑‍💻 View your own profile and posts
 
